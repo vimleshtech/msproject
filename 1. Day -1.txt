@@ -1,0 +1,124 @@
+Today's Topics
+==========================
+
+-MS Project OVerview  & Environemnt
+-Objective of MS Project
+-Terms in MS Project
+
+-How to create template
+-Start first project schedule
+
+
+MS Project OVerview  & Environemnt
+========================================
+-> is MS project and developed in 1984
+-> MS Project design and develop based Agile methodlogy
+-> MS Project versions:
+	MS Project 2016 
+	MS Project 2013 
+	etc.
+MS Office 365
+
+
+Environemnt:
+	-> Smartsheet 	 : 1 month free, monthly/yearly subscritpiton 
+	-> MS Office 365 : MS Project		: Paid 
+	
+
+
+Objective of MS Project	
+=================================
+-> Project Scheding
+-> Project Resouce allcoation
+-> Assets manaement
+-> Time management
+-> Sales 
+etc.
+
+
+
+
+Terms in MS Project
+==============================
+worksheet 		: table 
+Task 			: heading/Module/job to be done
+SubTask 		: sub-module  		
+Start Date		: planed start date
+End Date		: estimated end date		
+Duration 		: difference between estamited end and planed start date
+
+
+Functions:
+	today()		= date
+	now()		= date+time
+	year()		= year
+	month()
+	day()
+	hour()
+	minute()
+	second()
+
+	eomonth(date,0)		= last day of given date
+			0 -current month
+	eomonth(date,1)
+			1 - next month	
+			-1 - last month	
+	datedif(start,end,"y")
+			   m
+			   d
+
+	weekday()						
+			1- sunday
+			2- monday
+			...
+			7 - saturday
+
+
+	networkday(start,end,28)
+			 - no of days between these two date
+			
+			
+	
+
+
+SDLC 
+===========
+1. Requirement Gathering and Analysis		: done by BA 
+	-Understanding of current system
+	-Objective/Scope 
+	-Feasibility Study 
+	-Resource : Haardwware, Software, Human 
+	-Documentation:
+			SRS  : software requirement specification
+			FR   : functional requirement 
+				FRS/FRD    - specification/documentaion
+			BR   : business requiement 	
+				BRS/BRD
+
+			
+	12-15%
+
+2. Design 			: by software architect 
+	-HLD	: high level design
+		
+	-LLD	: low level design 
+			
+	8-10 %
+
+3. Development 		: by Software Developer 
+	
+	35-40%
+	
+4. Testing / SQT (software quality testing) 		: by 
+	Level of Testing:
+		-Unit Testing		: by developer
+		-Itegration Testing	: by tester
+		-System Testing		: by tester
+		-UAT(user acceptence testing) : by customer/user
+				
+
+5. Release 
+
+
+
+
